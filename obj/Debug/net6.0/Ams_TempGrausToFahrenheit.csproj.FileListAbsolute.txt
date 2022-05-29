@@ -1,0 +1,15 @@
+E:\Programers22\Ams_TempGrausToFahrenheit\bin\Debug\net6.0\Ams_TempGrausToFahrenheit.exe
+E:\Programers22\Ams_TempGrausToFahrenheit\bin\Debug\net6.0\Ams_TempGrausToFahrenheit.deps.json
+E:\Programers22\Ams_TempGrausToFahrenheit\bin\Debug\net6.0\Ams_TempGrausToFahrenheit.runtimeconfig.json
+E:\Programers22\Ams_TempGrausToFahrenheit\bin\Debug\net6.0\Ams_TempGrausToFahrenheit.dll
+E:\Programers22\Ams_TempGrausToFahrenheit\bin\Debug\net6.0\Ams_TempGrausToFahrenheit.pdb
+E:\Programers22\Ams_TempGrausToFahrenheit\obj\Debug\net6.0\Ams_TempGrausToFahrenheit.csproj.AssemblyReference.cache
+E:\Programers22\Ams_TempGrausToFahrenheit\obj\Debug\net6.0\Ams_TempGrausToFahrenheit.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programers22\Ams_TempGrausToFahrenheit\obj\Debug\net6.0\Ams_TempGrausToFahrenheit.AssemblyInfoInputs.cache
+E:\Programers22\Ams_TempGrausToFahrenheit\obj\Debug\net6.0\Ams_TempGrausToFahrenheit.AssemblyInfo.cs
+E:\Programers22\Ams_TempGrausToFahrenheit\obj\Debug\net6.0\Ams_TempGrausToFahrenheit.csproj.CoreCompileInputs.cache
+E:\Programers22\Ams_TempGrausToFahrenheit\obj\Debug\net6.0\Ams_TempGrausToFahrenheit.dll
+E:\Programers22\Ams_TempGrausToFahrenheit\obj\Debug\net6.0\refint\Ams_TempGrausToFahrenheit.dll
+E:\Programers22\Ams_TempGrausToFahrenheit\obj\Debug\net6.0\Ams_TempGrausToFahrenheit.pdb
+E:\Programers22\Ams_TempGrausToFahrenheit\obj\Debug\net6.0\Ams_TempGrausToFahrenheit.genruntimeconfig.cache
+E:\Programers22\Ams_TempGrausToFahrenheit\obj\Debug\net6.0\ref\Ams_TempGrausToFahrenheit.dll
